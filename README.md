@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img alt="Habits Project" src="./.github/preview.jpg" width="100%">
+  <img alt="Habits Project" src="[./.github/preview.jpg](https://cdn2.iconfinder.com/data/icons/music-player-icons-line/58/Down_Filled-512.png)" width="100%">
 </p>
 
 ## 👨‍💻 Technologies
