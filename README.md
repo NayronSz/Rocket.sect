@@ -15,7 +15,7 @@ Built with
 The challenge was purpose for the course explorer by RocketSeat. The objective was built a landing-page by a Figma design.
 
 
-- [Visite o projeto online](https://guiogigo.github.io/Rocketseat-Desafio-Rocketsect/)
+- [Visite o projeto online](https://nayronsz.github.io/rocket.sect/)
 
 -----
 <p align="center">Built by: <strong>Nayron Souza!</strong></p>
